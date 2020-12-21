@@ -1,4 +1,7 @@
-Movie (MovieID, MovieTitle, USDateReleased, ProducerName, RunningTime, Country, Budget, BoxOffice)Actor (ActorID, ActorFirstName, ActorLastName, Gender, Remark)
+Relational Schema for DCEUMovieDB
+-
+Movie (MovieID, MovieTitle, USDateReleased, ProducerName, RunningTime, Country, Budget, BoxOffice)
+Actor (ActorID, ActorFirstName, ActorLastName, Gender, Remark)
 DCEUCharacter (CharacterID, CharacterName, Ability, Weakness, CharacterType)
 Casting (MovieID, ActorID, CharacterID)
 Director (DirectorID, DirectorFirstName, DirectorLastName, Remark)
