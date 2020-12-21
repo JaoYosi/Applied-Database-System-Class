@@ -1,2 +1,7 @@
 # Applied-Database-System-Course
-This is a course taken while in graduate school
+This is a course taken while in graduate school.
+
+# About the project
+A database for DCEU movies with their respective tie in comic.The DC Extended Universe database management system provides an easy way of looking up the comic based movies and reviewing the comics and moviews. I used mariaDB and postgreSql shell to create the database. Also,  I jused html and php to create the forms used for the review.
+
+
